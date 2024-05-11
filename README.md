@@ -13,3 +13,4 @@ Therefore, I would like to start creating my own website from top to bottom wher
 ## 20240510: Git Commit Crash Error
 Erase Git Folder and Reclone
 Time difference: git commit time difference
+Divide work quota for each day
