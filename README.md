@@ -9,3 +9,6 @@ I had two platforms where I journaled my thoughts.
 However, as much as I am being dedicated to my **daily commits**, I would like the record of my personal thoughts to be incorporated into the commit chain. 
 
 Therefore, I would like to start creating my own website from top to bottom where I can express myself not only in content facet but also in web design facet. 
+
+## 20240510: Git Commit Crash Error
+Erase Git Folder and Reclone
